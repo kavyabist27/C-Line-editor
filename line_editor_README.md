@@ -2,7 +2,8 @@
 
 ## Team
 
-- Aryush Sheelavant
+- Kavya Bist R25EJ054
+  Anjali Nair R25EJ008
 
 ## Project Overview
 
